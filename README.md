@@ -4,7 +4,6 @@ useful public domain images
 
 mostly leaves
 
-to run the script that makes the gallery, [`igal2`](https://igal.trexler.at/features.shtml) is required. 
+to run the script that makes the gallery, [`lazygal`](https://github.com/niol/lazygal) is required. 
 
-might need to delete old files because it doesn't seem to overwrite even when it should. needs to be run twice in a row on a fresh directory.
-
+I'm not putting much work into this right now, feel free to download the repositoty by using the menu in the top right corner if you would like to grab all the images. 
