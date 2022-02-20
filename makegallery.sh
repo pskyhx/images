@@ -4,6 +4,7 @@
 lazygal \
 	--output-directory="docs" \
 	--force-gen-pages \
+	--check-all-dirs \
 	--clean-destination \
 	--image-size="large=3000x3000" \
 	--image-size="medium=1000x1000" \
