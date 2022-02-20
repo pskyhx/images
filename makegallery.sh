@@ -13,7 +13,6 @@ lazygal \
 	--puburl="feed" \
 	--thumbs-per-page="0" \
 	--keep-gps-data \
-	--no-video \
 	images
 
 
