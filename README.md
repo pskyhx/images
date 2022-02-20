@@ -6,4 +6,5 @@ mostly leaves
 
 to run the script that makes the gallery, [`igal2`](https://igal.trexler.at/features.shtml) is required. 
 
-might need to delete old files because it doesn't seem to overwrite even when it should.
+might need to delete old files because it doesn't seem to overwrite even when it should. needs to be run twice in a row on a fresh directory.
+
